@@ -15,7 +15,6 @@ export default function App() {
 
     return (
         <div className={classes.root}>
-            <Button variant="contained">Default</Button>
             <Button variant="contained" color="primary">
                 Primary
             </Button>
